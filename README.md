@@ -1,7 +1,9 @@
 # Awesome_DL_Notes
 This repository contains useful links &amp; notes of just one ordinary DL engineer
 
-
+# Neural Network sparsity
+  * [SkimCaffe](https://github.com/IntelLabs/SkimCaffe) 
+  * [DynamicNetworkSurgery](https://github.com/yiwenguo/Dynamic-Network-Surgery) 
 # Quantization
   * [TensorQuant](https://github.com/cc-hpc-itwm/TensorQuant)
   * [Ristretto](http://lepsucd.com/?page_id=621)

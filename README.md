@@ -17,3 +17,6 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
   * [PyTorch](https://github.com/tensorflow/tensorflow)
   * [Caffe](https://github.com/BVLC/caffe)
   * [Caffe2](https://github.com/caffe2/caffe2)
+
+# Face datasets
+  * [VGGFace2](http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)

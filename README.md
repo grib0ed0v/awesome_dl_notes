@@ -4,9 +4,10 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
 # Neural Network sparsity
   * [SkimCaffe](https://github.com/IntelLabs/SkimCaffe) 
   * [DynamicNetworkSurgery](https://github.com/yiwenguo/Dynamic-Network-Surgery) 
-# Quantization
+# Quantization/Binarization
   * [TensorQuant](https://github.com/cc-hpc-itwm/TensorQuant)
   * [Ristretto](http://lepsucd.com/?page_id=621)
+  * [BMXNet](https://github.com/hpi-xnor/BMXNet)
   
 # Object Detection
   * [SSD](https://github.com/weiliu89/caffe/tree/ssd)

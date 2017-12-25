@@ -13,6 +13,11 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
   * [SSD](https://github.com/weiliu89/caffe/tree/ssd)
   * [py-faster-rcnn](https://github.com/rbgirshick/py-faster-rcnn)
 
+# Instance Segmentation
+  * [Mask R-CNN](https://github.com/yanxp/Mask_RCNN)
+  * [FCIS](https://github.com/msracver/FCIS)
+  * [MaskLab](https://arxiv.org/pdf/1712.04837.pdf)
+  
 # Deep Learning frameworks
   * [TensorFlow](https://github.com/tensorflow/tensorflow)
   * [PyTorch](https://github.com/tensorflow/tensorflow)

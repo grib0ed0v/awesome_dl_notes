@@ -6,6 +6,7 @@ This repository contains useful links &amp; notes of just one ordinary DL engine
   * [DynamicNetworkSurgery](https://github.com/yiwenguo/Dynamic-Network-Surgery) 
   
 ## Quantization/Binarization
+  * [TensorFlow native quantization](https://www.tensorflow.org/performance/quantization)
   * [TensorQuant](https://github.com/cc-hpc-itwm/TensorQuant)
   * [Ristretto](http://lepsucd.com/?page_id=621)
   * [BMXNet](https://github.com/hpi-xnor/BMXNet)

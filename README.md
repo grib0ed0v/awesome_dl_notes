@@ -1,15 +1,14 @@
 # Awesome_DL_Notes
 This repository contains useful links &amp; notes of just one ordinary DL engineer
 
-## Books
+# Contents 
 
-## Code
+- ## [Books](https://github.com/grib0ed0v/awesome_dl_notes/blob/master/books/README.md)
+- ## [Code](https://github.com/grib0ed0v/awesome_dl_notes/tree/master/code/README.md)
+- ## [Courses](https://github.com/grib0ed0v/awesome_dl_notes/blob/master/courses/README.md)
+- ## [Datasets](https://github.com/grib0ed0v/awesome_dl_notes/blob/master/datasets/README.md)  
+- ## [Papers](https://github.com/grib0ed0v/awesome_dl_notes/tree/master/papers)
 
-## Courses
-
-## Datasets
-
-## Papers
   
 ## Quantization/Binarization
   * [TensorFlow native quantization](https://www.tensorflow.org/performance/quantization)

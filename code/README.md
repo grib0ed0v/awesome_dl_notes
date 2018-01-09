@@ -23,3 +23,8 @@ This section contains useful links to Deep Learning code/projects (everything th
   * [SkimCaffe](https://github.com/IntelLabs/SkimCaffe) 
   * [DynamicNetworkSurgery](https://github.com/yiwenguo/Dynamic-Network-Surgery) 
   
+## 5)  Quantization/Binarization
+  * [TensorFlow native quantization](https://www.tensorflow.org/performance/quantization)
+  * [TensorQuant](https://github.com/cc-hpc-itwm/TensorQuant) 
+  * [Ristretto](http://lepsucd.com/?page_id=621)
+  * [BMXNet](https://github.com/hpi-xnor/BMXNet)

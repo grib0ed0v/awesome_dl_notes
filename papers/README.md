@@ -9,7 +9,7 @@ This section contains the most useful DL papers for various problems
   * [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
   * [ResNet](https://arxiv.org/pdf/1512.03385.pdf)
   * [GoogLeNet](https://arxiv.org/pdf/1409.4842.pdf)
-  * [Inception v2, v3] (https://arxiv.org/pdf/1512.00567.pdf)
+  * [Inception v2, v3](https://arxiv.org/pdf/1512.00567.pdf)
   * [PVANet](https://arxiv.org/pdf/1608.08021.pdf)
   * [MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
   * [Inception-v4](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45169.pdf)

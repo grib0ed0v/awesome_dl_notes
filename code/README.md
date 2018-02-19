@@ -13,6 +13,7 @@ This section contains useful links to Deep Learning code/projects (everything th
   * [Faster R-CNN Caffe](https://github.com/rbgirshick/py-faster-rcnn)
   * [Receptive Field Block Net PyTorch](https://github.com/ruinmessi/RFBNet)
   * [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection)
+  * [FAIR Caffe2-based Detectron](https://github.com/facebookresearch/Detectron)
   
   
  ## 3) Instance Segmentation

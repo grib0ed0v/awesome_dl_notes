@@ -30,6 +30,7 @@ This section contains the most useful DL papers for various problems
 * **Optimization & Regularization:**
   * [BatchNorm](https://arxiv.org/pdf/1502.03167.pdf)
   * [BatchRenorm](https://arxiv.org/pdf/1702.03275.pdf)
+  * [Batch Kalman Normalization](https://arxiv.org/pdf/1802.03133.pdf)
   * [Dropout](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
 
 ## Advanced materials

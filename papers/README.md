@@ -13,6 +13,7 @@ This section contains the most useful DL papers for various problems
   * [PVANet](https://arxiv.org/pdf/1608.08021.pdf)
   * [MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
   * [Inception-v4](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45169.pdf)
+  * [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
 * **Object Detection:**
   * [SSD](https://arxiv.org/pdf/1512.02325.pdf)
   * Faster R-CNN family ([R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf))

@@ -27,6 +27,12 @@ This section contains the most useful DL papers for various problems
   * [DeepLab](https://arxiv.org/pdf/1606.00915.pdf) + [v3](https://arxiv.org/pdf/1706.05587.pdf)
   * [ICNet](https://arxiv.org/pdf/1704.08545.pdf)
   * [U-Net](https://arxiv.org/pdf/1505.04597.pdf)
+* **Face Recognition:**
+  * [FaceNet](https://arxiv.org/pdf/1503.03832.pdf)
+  * [Deep Face Recognition (VGGFace)](https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+  * [SphereFace a.k.a. A-Softmax](https://arxiv.org/pdf/1704.08063.pdf)
+  * [ArcFace a.k.a. AM-Softmax](https://arxiv.org/pdf/1801.07698.pdf)
+  * [CenterLoss](https://ydwen.github.io/papers/WenECCV16.pdf)
 * **Optimization & Regularization:**
   * [BatchNorm](https://arxiv.org/pdf/1502.03167.pdf)
   * [BatchRenorm](https://arxiv.org/pdf/1702.03275.pdf)

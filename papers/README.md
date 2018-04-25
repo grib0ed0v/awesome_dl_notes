@@ -17,7 +17,7 @@ This section contains the most useful DL papers for various problems
   * [SSD](https://arxiv.org/pdf/1512.02325.pdf)
   * Faster R-CNN family ([R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf))
   * [R-FCN](https://arxiv.org/pdf/1605.06409.pdf)
-  * YOLO ([v1](https://arxiv.org/pdf/1506.02640.pdf), [v2](https://pjreddie.com/media/files/papers/YOLO9000.pdf))
+  * YOLO ([v1](https://arxiv.org/pdf/1506.02640.pdf), [v2](https://pjreddie.com/media/files/papers/YOLO9000.pdf), [v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf))
   * [SqueezeDet](https://arxiv.org/pdf/1612.01051.pdf)
   * [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_SpeedAccuracy_Trade-Offs_for_CVPR_2017_paper.pdf) 
 * **Semantic Segmentation:**

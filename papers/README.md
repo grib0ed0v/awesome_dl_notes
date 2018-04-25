@@ -33,6 +33,7 @@ This section contains the most useful DL papers for various problems
   * [SphereFace a.k.a. A-Softmax](https://arxiv.org/pdf/1704.08063.pdf)
   * [ArcFace a.k.a. AM-Softmax](https://arxiv.org/pdf/1801.07698.pdf)
   * [CenterLoss](https://ydwen.github.io/papers/WenECCV16.pdf)
+  * [MobileFaceNets](https://arxiv.org/pdf/1804.07573.pdf)
 * **Optimization & Regularization:**
   * [BatchNorm](https://arxiv.org/pdf/1502.03167.pdf)
   * [BatchRenorm](https://arxiv.org/pdf/1702.03275.pdf)

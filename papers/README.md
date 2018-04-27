@@ -55,3 +55,4 @@ This section contains the most useful DL papers for various problems
   * [Wasserstein GAN](https://arxiv.org/pdf/1701.07875.pdf)
   * [BEGAN](https://arxiv.org/pdf/1703.10717.pdf)
   * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+  * [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)

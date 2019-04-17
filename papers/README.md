@@ -26,6 +26,9 @@ This section contains the most useful DL papers for various problems
   * YOLO ([v1](https://arxiv.org/pdf/1506.02640.pdf), [v2](https://pjreddie.com/media/files/papers/YOLO9000.pdf), [v3](https://pjreddie.com/media/files/papers/YOLOv3.pdf))
   * [SqueezeDet](https://arxiv.org/pdf/1612.01051.pdf)
   * [Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors](http://openaccess.thecvf.com/content_cvpr_2017/papers/Huang_SpeedAccuracy_Trade-Offs_for_CVPR_2017_paper.pdf) 
+  * [CornerNet](https://arxiv.org/abs/1808.01244)
+  * [DuBox: No-Prior Box Objection Detection via Residual Dual Scale Detectors](https://arxiv.org/abs/1904.06883)
+  * [Objects as Points](https://arxiv.org/pdf/1904.07850.pdf)
 * **Semantic Segmentation:**
   * [FCN](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
   * [SegNet](https://arxiv.org/pdf/1511.00561.pdf)

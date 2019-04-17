@@ -5,6 +5,7 @@ This section contains the most useful DL papers for various problems
 * [A Guide to Convolution arithmetic for DL](https://arxiv.org/pdf/1603.07285.pdf)
 * **Backbones (Classification):**
   * [AlexNet](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+  * [One weird trick for parallelizing convolutional neural networks](https://arxiv.org/pdf/1404.5997.pdf)
   * [ZFNet](https://arxiv.org/pdf/1311.2901.pdf)
   * [VGG](https://arxiv.org/pdf/1409.1556.pdf)
   * [SqueezeNet](https://arxiv.org/pdf/1602.07360.pdf)
@@ -17,6 +18,7 @@ This section contains the most useful DL papers for various problems
   * [X-ception](https://arxiv.org/pdf/1610.02357.pdf)
   * [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
   * [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)
+  * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
 * **Object Detection:**
   * [SSD](https://arxiv.org/pdf/1512.02325.pdf)
   * Faster R-CNN family ([R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf))

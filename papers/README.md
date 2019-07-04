@@ -18,7 +18,10 @@ This section contains the most useful DL papers for various problems
   * [X-ception](https://arxiv.org/pdf/1610.02357.pdf)
   * [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/pdf/1801.04381.pdf)
   * [ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design](https://arxiv.org/pdf/1807.11164.pdf)
+  * [Squeeze-and-Excitation Networks](https://arxiv.org/pdf/1709.01507.pdf)
+  * [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)
   * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
+  * [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/pdf/1810.00736.pdf)
 * **Object Detection:**
   * [SSD](https://arxiv.org/pdf/1512.02325.pdf)
   * Faster R-CNN family ([R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf))

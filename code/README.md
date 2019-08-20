@@ -19,6 +19,8 @@ This section contains useful links to Deep Learning code/projects (everything th
  ## 3) Instance Segmentation
   * [Mask R-CNN TensorFlow](https://github.com/yanxp/Mask_RCNN)
   * [FCIS MXNet](https://github.com/msracver/FCIS)
+  * [Mask R-CNN benchmark](https://github.com/facebookresearch/maskrcnn-benchmark)
+  * [mmdetection](https://github.com/open-mmlab/mmdetection)
   
  ## 4) Neural Network sparsity
   * [SkimCaffe](https://github.com/IntelLabs/SkimCaffe) 

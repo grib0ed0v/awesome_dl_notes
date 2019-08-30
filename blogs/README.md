@@ -10,6 +10,7 @@ This section contains useful links to Deep Learning Blogs & Articles.
 * [Understanding Deep Learning for Object Detection](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
 * [Transformers from scratch](http://peterbloem.nl/blog/transformers)
 * [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+* [The Illustrated GPT-2](http://jalammar.github.io/illustrated-gpt2/)
 
 ## Just nice blogs:
 * [Why you need to improve your training data, and how to do it](https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it/)

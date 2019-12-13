@@ -49,6 +49,7 @@ This section contains the most useful DL papers for various problems
   * [MobileFaceNets](https://arxiv.org/pdf/1804.07573.pdf)
   * [Deep Imbalanced Learning for FR: CLMLE](https://arxiv.org/pdf/1806.00194.pdf)
   * [Ring loss: Convex Feature Normalization for Face Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zheng_Ring_Loss_Convex_CVPR_2018_paper.pdf)
+  * [AirFace:Lightweight and Efficient Model for Face Recognition](https://arxiv.org/pdf/1907.12256.pdf)
 * **Optimization & Regularization:**
   * [BatchNorm](https://arxiv.org/pdf/1502.03167.pdf)
   * [BatchRenorm](https://arxiv.org/pdf/1702.03275.pdf)

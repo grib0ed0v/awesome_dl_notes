@@ -14,3 +14,4 @@ This section contains useful links to Deep Learning Blogs & Articles.
 
 ## Just nice blogs:
 * [Why you need to improve your training data, and how to do it](https://petewarden.com/2018/05/28/why-you-need-to-improve-your-training-data-and-how-to-do-it/)
+* [How to do good research, get it published in SIGKDD and get it cited!](http://www.cs.ucr.edu/~eamonn/Keogh_SIGKDD09_tutorial.pdf)

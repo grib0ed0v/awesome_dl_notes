@@ -22,6 +22,7 @@ This section contains the most useful DL papers for various problems
   * [Searching for MobileNetV3](https://arxiv.org/pdf/1905.02244.pdf)
   * [Bag of Tricks for Image Classification with Convolutional Neural Networks](https://arxiv.org/pdf/1812.01187.pdf)
   * [Benchmark Analysis of Representative Deep Neural Network Architectures](https://arxiv.org/pdf/1810.00736.pdf)
+  * [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/pdf/1905.11946.pdf)
 * **Object Detection:**
   * [SSD](https://arxiv.org/pdf/1512.02325.pdf)
   * Faster R-CNN family ([R-CNN](https://arxiv.org/pdf/1311.2524.pdf), [Fast R-CNN](https://arxiv.org/pdf/1504.08083.pdf), [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf))

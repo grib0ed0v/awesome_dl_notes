@@ -3,7 +3,7 @@ This section contains useful links to Deep Learning code/projects (everything th
 
 ## 1) Deep Learning frameworks
   * [TensorFlow](https://github.com/tensorflow/tensorflow)
-  * [PyTorch](https://github.com/tensorflow/tensorflow)
+  * [PyTorch](https://github.com/pytorch/pytorch)
   * [Caffe](https://github.com/BVLC/caffe)
   * [Caffe2](https://github.com/caffe2/caffe2)
   * [MXNet](https://github.com/apache/incubator-mxnet/)
